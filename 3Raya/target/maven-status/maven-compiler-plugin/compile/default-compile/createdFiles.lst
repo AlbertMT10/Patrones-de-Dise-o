@@ -1,0 +1,7 @@
+pe\edu\upeu\conn\ConnS.class
+pe\edu\upeu\util\ErrorLogger.class
+pe\edu\upeu\dao\ResultadoDAO.class
+pe\edu\upeu\modelo\ResultadoTO.class
+pe\edu\upeu\tresraya\tresraya.class
+pe\edu\upeu\gui\ModeloJuego.class
+pe\edu\upeu\dao\ResultadoDaoI.class
