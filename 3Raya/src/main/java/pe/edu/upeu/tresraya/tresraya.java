@@ -4,9 +4,9 @@
  */
 package pe.edu.upeu.tresraya;
 
-import pe.edu.upeu.gui.ControlarJuego;
-import pe.edu.upeu.gui.Inicio;
-import pe.edu.upeu.gui.ModeloJuego;
+import pe.edu.upeu.app.gui.ControlarJuego;
+import pe.edu.upeu.app.gui.Inicio;
+import pe.edu.upeu.app.gui.ModeloJuego;
 
 /**
  *
